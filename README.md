@@ -4,10 +4,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 Pursuing B.Tech in Computer Science & Engineering at Lovely Professional University
+🎓 Pursuing B.Tech in Electronics And Communication Engineering at Siddarth Institute Of Science And Technology.
 -💻 Passionate Software Developer with a knack for:
 -🤖 Machine Learning (especially Reinforcement Learning)
--🌐 MERN Stack Development
+-🌐 Full Stack Development
 -🧠 Natural Language Processing (NLP)
 -📈 Data Structures & Algorithms (DSA)
 
@@ -18,8 +18,8 @@
 🎯 Vision: To design solutions that solve today's problems and anticipate tomorrow’s needs.
 
 💬 Ask me about:
-- 📌 AI, ML, Deep Learning
-- 🛠 Python, Web Dev, GitHub tricks
+- 📌 Java , DSA..
+- 🛠 Java, Web Dev, GitHub tricks
 - 📚 Productivity hacks & smart learning
 
 ---
@@ -51,17 +51,17 @@
 
 I’m currently listening to TRAVIS SCOTT! 🎶
 
-🎧 [Listen to Travis Scott – TIL FURTHER NOTICE ](https://youtu.be/zptRsa1pqsk?si=WEUnrxLJd-Ml11XC)
+🎧 [Listen to Travis Scott – TIL FURTHER NOTICE ](https://www.youtube.com/watch?v=fxTcO_4abyg&pp=ygUUZWxvbiBtdXNrIG1vdGl2YXRpb24%3D)
 
 ---
 
 ## 📫 Let's Connect
 
-<p align="center"> <a href="https://www.linkedin.com/in/ganpatinath/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:ganpatinath07@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/naveenun/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:naveenun10@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ---
 
-## 📈 LeetCode Stats
+# 📈 LeetCode Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/ganpatinath07?ext=contest" alt="Leetcode Stats" /> </p>
 
 ---
