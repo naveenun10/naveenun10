@@ -49,9 +49,9 @@
 
 🎧 What’s Playing?
 
-I’m currently listening to TRAVIS SCOTT! 🎶
+I’m currently listening to ELON MUSK! 
 
-🎧 [Listen to Travis Scott – TIL FURTHER NOTICE ](https://www.youtube.com/watch?v=fxTcO_4abyg&pp=ygUUZWxvbiBtdXNrIG1vdGl2YXRpb24%3D)
+🎧 [Listen to ELON MUSK – *INSANE* ](https://www.youtube.com/watch?v=fxTcO_4abyg&pp=ygUUZWxvbiBtdXNrIG1vdGl2YXRpb24%3D)
 
 ---
 
@@ -61,8 +61,8 @@ I’m currently listening to TRAVIS SCOTT! 🎶
 
 ---
 
-# 📈 LeetCode Stats
-<p align="center"> <img src="https://leetcard.jacoblin.cool/ganpatinath07?ext=contest" alt="Leetcode Stats" /> </p>
+[# 📈 LeetCode Stats
+<p align="center"> <img src="https://leetcard.jacoblin.cool/ganpatinath07?ext=contest" alt="Leetcode Stats" /> </p>](url)
 
 ---
 
